@@ -1,0 +1,19 @@
+[
+    {
+        "fullName": "Pixel 6 Pro Case",
+        "url": "pixel_6_pro_case",
+        "price": "$29.00",
+        "colors": [
+            "Soft Sage",
+            "Stormy Sky",
+            "Light Frost",
+            "Golden Glow"
+        ]
+    },
+    {
+        "fullName": "Nest Cam Stand",
+        "url": "nest_cam_stand",
+        "price": "$29.99",
+        "colors": "none"
+    }
+]
