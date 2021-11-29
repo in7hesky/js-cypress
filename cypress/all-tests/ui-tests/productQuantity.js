@@ -8,7 +8,7 @@ let product
 
 describe("Changing product quantity task", () => {
     before(()=> {
-        cy.fixture("ex_products").then(products => {
+        cy.fixture("products").then(products => {
             product = products[1] //picking a product without color option for faster addition to the cart
             AccessoriesPage.open().performSearch(product.fullName)
             SearchResultsPage.chooseProductByHeader(product.fullName)

@@ -5,7 +5,7 @@ import CartPage from "/cypress/page-objects/cartPage"
 import Chance from "chance"
 
 const chance = new Chance()
-const products = require("/cypress/fixtures/ex_products")
+const products = require("/cypress/fixtures/products")
 
 describe("UI testing tasks", () => {
 
